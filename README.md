@@ -6,4 +6,8 @@ Sketchfab: https://sketchfab.com/treehero
 
 Modrinth: https://modrinth.com/mod/gtfo-craft-protocol
 
+Planet Minecraft: https://www.planetminecraft.com/mod/gtfo-craft-protocol/
+
 Curseforge: https://www.curseforge.com/minecraft/mc-mods/gtfo-craft-protocol
+
+
